@@ -21,4 +21,4 @@ print(f1(person))
 # print(f1(2)) # mypy error(GOOD!): error: Argument 1 to "f1" has incompatible type "int"; expected "Person"
 
 
-print(f2(person.age))
+f2(person.age)
