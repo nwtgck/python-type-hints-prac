@@ -11,3 +11,8 @@ $ pip3 install mypy
 ```bash
 $ mypy hello.py
 ```
+
+
+## References
+
+* https://docs.python.jp/3/library/typing.html
